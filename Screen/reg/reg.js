@@ -85,7 +85,7 @@ class reg extends Component {
                 keyboardShouldPersistTaps="always">
                 <Image
                     style={styles.logo}
-                    source={require('../../assets/ic_launcher.png')}
+                    source={require('../../assets/Login1.jpg')}
                 />
                 <TextInput
                     style={styles.input}
