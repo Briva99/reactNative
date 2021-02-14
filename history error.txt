@@ -1,0 +1,9 @@
+history error
+
+1. Execution failed for task ':app:mergeDexDebug' 
+   Status (selesai)
+2. Execution failed for task '  app:compileDebugJavaWithJavac '
+   status (selesai)
+3. material-ui tidak bisa terdeteksi
+   status (selesai)
+
