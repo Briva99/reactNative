@@ -324,7 +324,8 @@ class reg extends Component {
                 <TextInput
                     style={styles.input}
                     placeholderTextColor="#aaaaaa"
-                    secureTextEntry
+                    multiline={true}
+                    numberOfLines={5}
                     placeholder='keterangan'
                     onChangeText={(keterangan) => this.setState({ keterangan : keterangan})}
                     
